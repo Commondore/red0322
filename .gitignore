@@ -1,0 +1,6 @@
+.vscode
+node_modules/
+
+*.txt
+*.Thumbs
+.DS_Store
