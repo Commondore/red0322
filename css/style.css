@@ -4,3 +4,8 @@ body {
 * {
   box-sizing: border-box;
 }
+.nav {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2rem;
+}
